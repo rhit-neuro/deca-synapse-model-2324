@@ -1,0 +1,14 @@
+#-----------------------------------------------------------
+# Vivado v2023.1 (64-bit)
+# SW Build 3865809 on Sun May  7 15:05:29 MDT 2023
+# IP Build 3864474 on Sun May  7 20:36:21 MDT 2023
+# SharedData Build 3865790 on Sun May 07 13:33:03 MDT 2023
+# Start of session at: Thu Jan 18 22:47:41 2024
+# Process ID: 19496
+# Current directory: D:/capstone/hw_test/hw_test.runs/impl_1
+# Command line: vivado.exe -log switch_control_led.vdi -applog -product Vivado -messageDb vivado.pb -mode batch -source switch_control_led.tcl -notrace
+# Log file: D:/capstone/hw_test/hw_test.runs/impl_1/switch_control_led.vdi
+# Journal file: D:/capstone/hw_test/hw_test.runs/impl_1\vivado.jou
+# Running On: RHIT-R90XZ2SW, OS: Windows, CPU Frequency: 2592 MHz, CPU Physical cores: 6, Host memory: 16900 MB
+#-----------------------------------------------------------
+source switch_control_led.tcl -notrace

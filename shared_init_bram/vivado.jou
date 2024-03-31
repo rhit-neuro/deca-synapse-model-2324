@@ -1,0 +1,17 @@
+#-----------------------------------------------------------
+# Vivado v2023.1 (64-bit)
+# SW Build 3865809 on Sun May  7 15:05:29 MDT 2023
+# IP Build 3864474 on Sun May  7 20:36:21 MDT 2023
+# SharedData Build 3865790 on Sun May 07 13:33:03 MDT 2023
+# Start of session at: Tue Mar 12 22:06:03 2024
+# Process ID: 20328
+# Current directory: D:/capstone/shared_init_bram
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent2732 D:\capstone\shared_init_bram\shared_init_bram.xpr
+# Log file: D:/capstone/shared_init_bram/vivado.log
+# Journal file: D:/capstone/shared_init_bram\vivado.jou
+# Running On: RHIT-R90XZ2SW, OS: Windows, CPU Frequency: 2592 MHz, CPU Physical cores: 6, Host memory: 16900 MB
+#-----------------------------------------------------------
+start_gui
+open_project D:/capstone/shared_init_bram/shared_init_bram.xpr
+update_compile_order -fileset sources_1
+open_bd_design {D:/capstone/shared_init_bram/shared_init_bram.srcs/sources_1/bd/design_1/design_1.bd}

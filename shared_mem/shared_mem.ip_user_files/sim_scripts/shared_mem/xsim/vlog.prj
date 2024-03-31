@@ -1,0 +1,26 @@
+verilog xil_defaultlib --include "D:/xilinx/Vivado/2023.1/data/xilinx_vip/include" --include "../../../../shared_mem.gen/sources_1/bd/shared_mem/ipshared/ec67/hdl" --include "../../../../shared_mem.gen/sources_1/bd/shared_mem/ipshared/aed8/hdl" --include "../../../../shared_mem.gen/sources_1/bd/shared_mem/ipshared/f0b6/hdl/verilog" --include "../../../../shared_mem.gen/sources_1/bd/shared_mem/ipshared/66be/hdl/verilog" \
+"../../../../shared_mem.gen/sources_1/bd/shared_mem/ip/shared_mem_processing_system7_0_0/sim/shared_mem_processing_system7_0_0.v" \
+"../../../../shared_mem.gen/sources_1/bd/shared_mem/ip/shared_mem_axi_smc_0/bd_0/ip/ip_0/sim/bd_ae06_one_0.v" \
+
+sv xil_defaultlib --include "D:/xilinx/Vivado/2023.1/data/xilinx_vip/include" --include "../../../../shared_mem.gen/sources_1/bd/shared_mem/ipshared/ec67/hdl" --include "../../../../shared_mem.gen/sources_1/bd/shared_mem/ipshared/aed8/hdl" --include "../../../../shared_mem.gen/sources_1/bd/shared_mem/ipshared/f0b6/hdl/verilog" --include "../../../../shared_mem.gen/sources_1/bd/shared_mem/ipshared/66be/hdl/verilog" \
+"../../../../shared_mem.gen/sources_1/bd/shared_mem/ip/shared_mem_axi_smc_0/bd_0/ip/ip_2/sim/bd_ae06_s00mmu_0.sv" \
+"../../../../shared_mem.gen/sources_1/bd/shared_mem/ip/shared_mem_axi_smc_0/bd_0/ip/ip_3/sim/bd_ae06_s00tr_0.sv" \
+"../../../../shared_mem.gen/sources_1/bd/shared_mem/ip/shared_mem_axi_smc_0/bd_0/ip/ip_4/sim/bd_ae06_s00sic_0.sv" \
+"../../../../shared_mem.gen/sources_1/bd/shared_mem/ip/shared_mem_axi_smc_0/bd_0/ip/ip_5/sim/bd_ae06_s00a2s_0.sv" \
+"../../../../shared_mem.gen/sources_1/bd/shared_mem/ip/shared_mem_axi_smc_0/bd_0/ip/ip_6/sim/bd_ae06_sarn_0.sv" \
+"../../../../shared_mem.gen/sources_1/bd/shared_mem/ip/shared_mem_axi_smc_0/bd_0/ip/ip_7/sim/bd_ae06_srn_0.sv" \
+"../../../../shared_mem.gen/sources_1/bd/shared_mem/ip/shared_mem_axi_smc_0/bd_0/ip/ip_8/sim/bd_ae06_sawn_0.sv" \
+"../../../../shared_mem.gen/sources_1/bd/shared_mem/ip/shared_mem_axi_smc_0/bd_0/ip/ip_9/sim/bd_ae06_swn_0.sv" \
+"../../../../shared_mem.gen/sources_1/bd/shared_mem/ip/shared_mem_axi_smc_0/bd_0/ip/ip_10/sim/bd_ae06_sbn_0.sv" \
+"../../../../shared_mem.gen/sources_1/bd/shared_mem/ip/shared_mem_axi_smc_0/bd_0/ip/ip_11/sim/bd_ae06_m00s2a_0.sv" \
+"../../../../shared_mem.gen/sources_1/bd/shared_mem/ip/shared_mem_axi_smc_0/bd_0/ip/ip_12/sim/bd_ae06_m00e_0.sv" \
+
+verilog xil_defaultlib --include "D:/xilinx/Vivado/2023.1/data/xilinx_vip/include" --include "../../../../shared_mem.gen/sources_1/bd/shared_mem/ipshared/ec67/hdl" --include "../../../../shared_mem.gen/sources_1/bd/shared_mem/ipshared/aed8/hdl" --include "../../../../shared_mem.gen/sources_1/bd/shared_mem/ipshared/f0b6/hdl/verilog" --include "../../../../shared_mem.gen/sources_1/bd/shared_mem/ipshared/66be/hdl/verilog" \
+"../../../../shared_mem.gen/sources_1/bd/shared_mem/ip/shared_mem_axi_smc_0/bd_0/sim/bd_ae06.v" \
+"../../../../shared_mem.gen/sources_1/bd/shared_mem/ip/shared_mem_axi_smc_0/sim/shared_mem_axi_smc_0.v" \
+"../../../../shared_mem.gen/sources_1/bd/shared_mem/sim/shared_mem.v" \
+
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort
