@@ -56,4 +56,5 @@ This section wil be brief as I have not really thought much about this testing s
 |  i2c_reflector    | module created to interface two Zedboard      |
 |  shared_init_bram | shared init Block RAM accessible from ARM Core| 
 |  upload_test      | testing serial monitor over UART              | 
+|  synaptic_parameters_converters.py| converting csv of floats to ieee745 format and places into a .coe file for initialzing BRAM|
 
