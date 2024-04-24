@@ -3,6 +3,9 @@ This is a repo containing all the work related to implementing across board comm
 
 By creating a synaptic current peripheral, less work done by the managment processor, allowing for increased instruction throughput. In designing the current peripheral, there are two possible ways to assess if this would be a worthwhile addition depending on the hardware available to you all.
 
+## Software Used/Required
+The design suite used for was Vivado 2023. We needed to upgrad our storage to have enough disk space. For any scripts any IDE will be fine for running them. I personally used VS code and didn't have any problems. For this section of the project, you could probably work using an older version of Vivado. I'd only imagine the version being a problem when you starting integrating this systme into Caravel. If you are a Noblitt we got the extra hard drive paid for by Noblitt. I think it is worth while to do this if you are Noblitt. 
+
 ## One ZedBoard Available 
 If there is only one ZedBoard available, then you will be following the exact same design that I was trying to implement. A high level of the design can be described as follows:
 
